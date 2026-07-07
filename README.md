@@ -6,7 +6,7 @@
 ディレクトリ構成は下記になってます．（templateA~Dの名前は可変）
 適切にテストプログラムに配置してください．
 
-データセットの10と19はサイズ制限のため前半後半に分かれています．
+データセットの10と19はサイズ制限のため前半後半（10_1と10_2など）に分かれています．
 ```
 + image
 + level1
@@ -21,23 +21,23 @@
 + templateC.png
 + templateD.png
 ```
-* [データセット01](dataset01.tar.gz)
-* [データセット02](dataset02.tar.gz)
-* [データセット03](dataset03.tar.gz)
-* [データセット04](dataset04.tar.gz)
-* [データセット05](dataset05.tar.gz)
-* [データセット06](dataset06.tar.gz)
-* [データセット07](dataset07.tar.gz)
-* [データセット08](dataset08.tar.gz)
-* [データセット09](dataset09.tar.gz)
-* [データセット10_1](dataset10_1.tar.gz), [データセット10_2](dataset10_2.tar.gz)
-* [データセット11](dataset11.tar.gz)
-* [データセット12](dataset12.tar.gz)
-* [データセット13](dataset13.tar.gz)
-* [データセット14](dataset14.tar.gz)
-* [データセット15](dataset15.tar.gz)
-* [データセット16](dataset16.tar.gz)
-* [データセット17](dataset17.tar.gz)
-* [データセット18](dataset18.tar.gz)
-* [データセット19_1](dataset19_1.tar.gz), [データセット19_2](dataset19_2.tar.gz)
-* [データセット20](dataset20.tar.gz)
+* [データセット01](dataset01.tar.gz?raw=1)
+* [データセット02](dataset02.tar.gz?raw=1)
+* [データセット03](dataset03.tar.gz?raw=1)
+* [データセット04](dataset04.tar.gz?raw=1)
+* [データセット05](dataset05.tar.gz?raw=1)
+* [データセット06](dataset06.tar.gz?raw=1)
+* [データセット07](dataset07.tar.gz?raw=1)
+* [データセット08](dataset08.tar.gz?raw=1)
+* [データセット09](dataset09.tar.gz?raw=1)
+* [データセット10_1](dataset10_1.tar.gz?raw=1), [データセット10_2](dataset10_2.tar.gz?raw=1)
+* [データセット11](dataset11.tar.gz?raw=1)
+* [データセット12](dataset12.tar.gz?raw=1)
+* [データセット13](dataset13.tar.gz?raw=1)
+* [データセット14](dataset14.tar.gz?raw=1)
+* [データセット15](dataset15.tar.gz?raw=1)
+* [データセット16](dataset16.tar.gz?raw=1)
+* [データセット17](dataset17.tar.gz?raw=1)
+* [データセット18](dataset18.tar.gz?raw=1)
+* [データセット19_1](dataset19_1.tar.gz?raw=1), [データセット19_2](dataset19_2.tar.gz?raw=1)
+* [データセット20](dataset20.tar.gz?raw=1)
