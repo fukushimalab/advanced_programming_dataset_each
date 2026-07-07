@@ -6,6 +6,7 @@
 ディレクトリ構成は下記になってます．（templateA~Dの名前は可変）
 適切にテストプログラムに配置してください．
 
+データセットの10と19はサイズ制限のため前半後半に分かれています．
 ```
 + image
 + level1
@@ -29,7 +30,7 @@
 * [データセット07](dataset07.tar.gz)
 * [データセット08](dataset08.tar.gz)
 * [データセット09](dataset09.tar.gz)
-* [データセット10](dataset10.tar.gz)
+* [データセット10_1](dataset10_1.tar.gz), [データセット10_2](dataset10_2.tar.gz)
 * [データセット11](dataset11.tar.gz)
 * [データセット12](dataset12.tar.gz)
 * [データセット13](dataset13.tar.gz)
@@ -38,5 +39,5 @@
 * [データセット16](dataset16.tar.gz)
 * [データセット17](dataset17.tar.gz)
 * [データセット18](dataset18.tar.gz)
-* [データセット19](dataset19.tar.gz)
+* [データセット19_1](dataset19_1.tar.gz), [データセット19_2](dataset19_2.tar.gz)
 * [データセット20](dataset20.tar.gz)
